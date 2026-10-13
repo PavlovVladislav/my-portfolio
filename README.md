@@ -2,9 +2,9 @@
 
 A responsive, static portfolio site deployed with GitHub Pages.
 
-## Personalize it
+## Site content
 
-Edit `index.html` to replace **Your Name**, the sample project names and descriptions, social links, and `hello@example.com`. Update the page title and description in the `<head>` as well. Colors, layout, and typography live in `style.css`.
+The portfolio content is based on `Vladyslav_Pavlov_CV.pdf` and project details shared in chat. The downloadable CV is stored at `assets/Vladyslav_Pavlov_CV.pdf`. Update that file and the matching download links in `index.html` when publishing a revised CV. Colors, layout, and typography live in `style.css`.
 
 ## Publish on GitHub Pages
 
